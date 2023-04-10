@@ -1,4 +1,4 @@
-# website-
+# website
 On my job hunting adventure and transition to Data science, I decided to create a fronted website portfolio to present my ongoing learning/projects.
 This repo contains an easy-to-customize personal dev portfolio template that was created with:
 
